@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         int amount = 200; // начальный счет;
-        int addamount = 1620; // сумма пополнения счета;
+        int addamount = 900; // сумма пополнения счета;
         int bonus = 1; // 1 бонусный рубль за каждые 100 рублей;
         if (addamount > 1000) {
             System.out.println("Итоговый счет:");
