@@ -16,8 +16,8 @@ public class Main {
             System.out.println("Итоговый счет:");
             System.out.println((amount + addamount + " рублей"));
             System.out.println("Бонусы не начисляются:");
-            // Итоговый счет: 1523 //
-            // Количество бонусных рублей: 3 //
+            // Итоговый счет: 1100 //
+            // Бонусы не начисляются //
 
         }
     }
